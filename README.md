@@ -10,7 +10,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 ## 📸 Evidência de Execução
 
 ![Print do terminal](<./Print/Captura de tela 2026-02-28 095442.png>)
-![Print do terminal](./Print2/Captura%20de%20tela%202026-02-28%20095442.png)
+![Print do terminal](<./Print 2/Captura de tela 2026-02-28 093617.png>)
 
 
 
