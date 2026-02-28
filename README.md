@@ -8,3 +8,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - 'date': Mostra a data atual do sistema.
 
 ## 📸 Evidência de Execução
+
