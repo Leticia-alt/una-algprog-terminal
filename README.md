@@ -9,5 +9,5 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 
-![Print/Captura de tela 2026-02-28 095442.png](./assets/screenshot.png)
+![Captura de tela 2026-02-28 095442.png](./assets/screenshot.png)
 
