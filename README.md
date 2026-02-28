@@ -9,4 +9,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 
-![Print/Captura de tela 2026-02-28 095442.png](./screenshot.png)
+![https://github.com/Leticia-alt/una-algprog-terminal/blob/fe75d1ae84ab327920954074c058ad5927d8b8e7/Print/Captura%20de%20tela%202026-02-28%20095442.png](./screenshot.png)
