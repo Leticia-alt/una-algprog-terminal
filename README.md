@@ -1,0 +1,10 @@
+# ⚡ Meus Comandos Favoritos
+Aqui estão os comandos que mais utilizei na aula de Terminal:
+
+- `cd`: Para navegar entre pastas.
+- `dir`: Para listar arquivos.
+- 'echo': Mostra uma mensagem na tela.
+- 'ver': Mostra a versão do Windows instalada.
+- 'date': Mostra a data atual do sistema.
+
+## 📸 Evidência de Execução
